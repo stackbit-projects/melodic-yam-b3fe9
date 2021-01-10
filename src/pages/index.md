@@ -21,7 +21,7 @@ sections:
       Pour une communication simplifiée et efficace entre votre structure et les
       parents
     features:
-      - title: The Best Feature of Your Services
+      - title: Les fonctionalités de Procrèche
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
