@@ -25,6 +25,8 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
+          **Fil d'actualité**
+
           Partagez des informations, photos, vidéos, musiques, documents... à
           tous les parents ou en individuel. Ils seront informés en temps réel
           sur leur mobile. En bonus: Faites participer vos équipes et grâce à un
