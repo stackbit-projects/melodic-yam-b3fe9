@@ -59,9 +59,13 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Pensons à la planète : économisez en impression et ne renvoyez plus
+          les documents à chaque demande de parents (ils seront toujours
+          disponibles en téléchargement).
+
+
+          En bonus: classez et gérez vos documents avec des dossiers comme sur
+          votre ordinateur !
         actions:
           - label: Learn More
             url: /features
