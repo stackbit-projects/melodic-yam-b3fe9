@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Une application au nom de votre école
     subtitle: >-
       Une communication simplifiée et efficace entre votre structure et les
       parents
