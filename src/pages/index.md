@@ -21,7 +21,7 @@ sections:
       Pour une communication simplifiée et efficace entre votre structure et les
       parents
     features:
-      - title: Les fonctionalités de Procrèche
+      - title: Fil d'actualité
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
