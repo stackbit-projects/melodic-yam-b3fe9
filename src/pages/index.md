@@ -71,11 +71,12 @@ sections:
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
     reviews:
-      - author: John Doe
+      - author: Nid d'éveil
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          L'efficacité, la simplicité sont les points forts de Procrèche. Des
+          retours plus que positifs de la part des parents qui ont des nouvelles
+          régulièrement de leurs enfants
       - author: Jane Roe
         avatar: images/review2.jpg
         content: >-
