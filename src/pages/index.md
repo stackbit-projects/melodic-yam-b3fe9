@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: 'Procrèche, une communication simple et efficace'
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Procrèche est une solution parfaite pour les crèches, écoles, et autres
+      structures souhaitant digitaliser la communication avec les parents. 
     actions:
       - label: Learn More
         url: /features
