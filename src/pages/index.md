@@ -27,12 +27,9 @@ sections:
         content: >-
           Partagez des informations, photos, vidéos, musiques, documents... à
           tous les parents ou en individuel. Ils seront informés en temps réel
-          sur leur mobile.
-
-
-          En bonus: Faites participer vos équipes et grâce à un système de
-          modération vous pourrez valider leurs publications avant la diffusion
-          aux parents.
+          sur leur mobile. En bonus: Faites participer vos équipes et grâce à un
+          système de modération vous pourrez valider leurs publications avant la
+          diffusion aux parents.
         actions:
           - label: Learn More
             url: /features
