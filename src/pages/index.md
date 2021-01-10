@@ -66,7 +66,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: Nos clients a
+    title: Nos clients adorent Procrèche
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales. 
