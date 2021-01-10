@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: Une communication simplifiée et effica
+    subtitle: Une communication simplifiée et efficace
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
