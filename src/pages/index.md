@@ -10,7 +10,7 @@ sections:
       Procrèche est une solution parfaite pour les crèches, écoles, et autres
       structures souhaitant digitaliser la communication avec les parents. 
     actions:
-      - label: Learn More
+      - label: Savoir plus
         url: /features
         style: primary
   - section_id: features
