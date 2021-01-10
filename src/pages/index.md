@@ -43,9 +43,11 @@ sections:
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Vos équipes prennent des photos et font des vidéos des activités. Si
+          vous leur en donnez l’autorisation, elles peuvent partager ces
+          souvenirs avec les parents d’un groupe ou d’un seul enfant. C’est
+          également un bon moyen pour valoriser le projet pédagogique de votre
+          structure.
         actions:
           - label: Learn More
             url: /features
