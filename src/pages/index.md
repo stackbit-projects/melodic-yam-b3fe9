@@ -17,7 +17,9 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: Une communication simplifiée et efficace
+    subtitle: >-
+      Une communication simplifiée et efficace entre votre structure et les
+      parents
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
