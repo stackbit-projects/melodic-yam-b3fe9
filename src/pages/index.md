@@ -18,7 +18,7 @@ sections:
     background: gray
     title: Une application au nom de votre école
     subtitle: >-
-      Une communication simplifiée et efficace entre votre structure et les
+      Pour une communication simplifiée et efficace entre votre structure et les
       parents
     features:
       - title: The Best Feature of Your Services
